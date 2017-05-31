@@ -33,21 +33,15 @@
 		<Value><![CDATA[Q:\UFT AutoTestCases\Regression\AERS\TEST_SETUP\Non_Intervention_Submission_Test_Setup.xlsx]]></Value> <!-- File Path for Non Intervention-->
 	</Variable>
 
-        <Variable>
-		<Name>FilePath_24HourSubmission</Name> 
-		<Value><![CDATA[Q:\UFT AutoTestCases\Regression\AERS\TEST_SETUP\24_Hour_Submission_Test_Setup.xlsx]]></Value> <!-- File Path for 24 Hour Submission-->
-	</Variable>
+        
 
 
-        <Variable>
-		<Name>FilePath_10Day_Submission</Name> 
-		<Value><![CDATA[Q:\UFT AutoTestCases\Regression\AERS\TEST_SETUP\10_Day_Submission_Test_Setup.xlsx]]></Value> <!-- File Path for 10 Day Submission-->
-	</Variable>
+        
 
 
         <Variable>
 		<Name>ErrorPath</Name> 
-		<Value><![CDATA[Q:\UFT AutoTestCases\Regression\AERS\ERROR_SCREENSHOTS\]]></Value> <!-- ENTER ERROR PATH OR FOLDER PATH WHERE SCREEN SHOTS WILL BE SAVED-->
+		<Value><![CDATA[Q:\UFT AutoTestCases\Cases in Progress\bsangroula\AERS_Integration\]]></Value> <!-- ENTER ERROR PATH OR FOLDER PATH WHERE SCREEN SHOTS WILL BE SAVED-->
 	</Variable>
          
 
