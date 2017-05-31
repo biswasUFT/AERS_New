@@ -1,0 +1,55 @@
+<Environment>
+	
+	
+        
+
+         <Variable>
+		<Name>strBrowser</Name>
+		<Value><![CDATA[firefox.exe]]></Value> <!-- ENTER BROWSER TO BE USED TO AUTOMATE-->
+		
+		
+	</Variable> 
+
+         <Variable>
+		<Name>strUrl</Name>
+		<Value><![CDATA[https://coreappstest.ctisinc.com/ctepaers/public/login]]></Value> <!-- ENTER APPLICATION URL -->
+	</Variable> 
+
+       
+
+        <Variable>
+		<Name>strUsername</Name>
+		<Value><![CDATA[SANGROULAB]]></Value> <!--Enter  Valid User Name-->
+	</Variable>
+
+        <Variable>
+		<Name>strPassword</Name>
+		<Value><![CDATA[58dd169d90503e680a22b843861af96546a245ec8bc5dbf697ebfdc730ec]]></Value> <!--Enter Valid User Password-->
+	</Variable>
+
+
+        <Variable>
+		<Name>FilePath_NonIntervention</Name> 
+		<Value><![CDATA[Q:\UFT AutoTestCases\Regression\AERS\TEST_SETUP\Non_Intervention_Submission_Test_Setup.xlsx]]></Value> <!-- File Path for Non Intervention-->
+	</Variable>
+
+        <Variable>
+		<Name>FilePath_24HourSubmission</Name> 
+		<Value><![CDATA[Q:\UFT AutoTestCases\Regression\AERS\TEST_SETUP\24_Hour_Submission_Test_Setup.xlsx]]></Value> <!-- File Path for 24 Hour Submission-->
+	</Variable>
+
+
+        <Variable>
+		<Name>FilePath_10Day_Submission</Name> 
+		<Value><![CDATA[Q:\UFT AutoTestCases\Regression\AERS\TEST_SETUP\10_Day_Submission_Test_Setup.xlsx]]></Value> <!-- File Path for 10 Day Submission-->
+	</Variable>
+
+
+        <Variable>
+		<Name>ErrorPath</Name> 
+		<Value><![CDATA[Q:\UFT AutoTestCases\Regression\AERS\ERROR_SCREENSHOTS\]]></Value> <!-- ENTER ERROR PATH OR FOLDER PATH WHERE SCREEN SHOTS WILL BE SAVED-->
+	</Variable>
+         
+
+
+</Environment>
