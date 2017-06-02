@@ -9,7 +9,7 @@ FilePath_NonIntervention=environment.Value("FilePath_NonIntervention")
 
 
 
-Print "this is just a test"
+Print "this is just a test for me"
 
 
 Call Launch_AERS(strBrowser,strUrl)'''''' This function is sued to launch AERS Application
